@@ -1,0 +1,41 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-29-2020
+
+Time Of Purchase:                           15:57:49
+
+----------------------------------------------------
+
+Customer:          Rick Sanchez
+
+Brand:             Trek
+
+Alloy:             Aluminium
+
+Tire Size:         23"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $402.50
+
+Alloy Premium:                               $175.00
+
+----------------------------------------------------
+
+Sub Total:                                  $1077.50
+
+GST:                                          $53.88
+
+----------------------------------------------------
+
+Donation to The Green Earth Fund:             $26.00
+
+
+----------------------------------------------------
+
+Total:                                      $1157.38
+
+Thank You Kindly For Your Donation

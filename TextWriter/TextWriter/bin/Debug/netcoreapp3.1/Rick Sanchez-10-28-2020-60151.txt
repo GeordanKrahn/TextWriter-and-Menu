@@ -1,0 +1,41 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-28-2020
+
+Time Of Purchase:                           23:01:16
+
+----------------------------------------------------
+
+Customer:          Rick Sanchez
+
+Brand:             Giant
+
+Alloy:             Aluminium
+
+Tire Size:         0"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $455.00
+
+Alloy Premium:                               $175.00
+
+----------------------------------------------------
+
+Sub Total:                                  $1130.00
+
+GST:                                          $56.50
+
+----------------------------------------------------
+
+Donation to The Green Earth Fund :                 $5.00
+
+
+----------------------------------------------------
+
+Total:                                      $1191.50
+
+Thank You Kindly For Your Donation

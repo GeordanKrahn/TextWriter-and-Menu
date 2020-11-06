@@ -1,0 +1,38 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-28-2020
+
+Time Of Purchase:                           23:11:48
+
+----------------------------------------------------
+
+Customer:          Morty Smith
+
+Brand:             Trek
+
+Alloy:             Steel
+
+Tire Size:         20"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $350.00
+
+Alloy Premium:                                 $0.00
+
+----------------------------------------------------
+
+Sub Total:                                   $850.00
+
+GST:                                          $42.50
+
+----------------------------------------------------
+
+
+
+Total:                                       $892.50
+
+Thanks For Shopping At "The Right Speed Bike Shop"

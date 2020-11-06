@@ -1,0 +1,41 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-28-2020
+
+Time Of Purchase:                           23:03:02
+
+----------------------------------------------------
+
+Customer:          Rick Sancehz
+
+Brand:             Trek
+
+Alloy:             Carbon Fiber
+
+Tire Size:         0"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $402.00
+
+Alloy Premium:                               $615.00
+
+----------------------------------------------------
+
+Sub Total:                                  $1517.50
+
+GST:                                          $75.88
+
+----------------------------------------------------
+
+Donation to The Green Earth Fund:               $5.00
+
+
+----------------------------------------------------
+
+Total:                                      $1598.38
+
+Thank You Kindly For Your Donation

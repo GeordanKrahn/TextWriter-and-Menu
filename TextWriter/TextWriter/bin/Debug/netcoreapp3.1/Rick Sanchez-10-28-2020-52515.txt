@@ -1,0 +1,38 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-28-2020
+
+Time Of Purchase:                           23:06:53
+
+----------------------------------------------------
+
+Customer:          Rick Sanchez
+
+Brand:             Giant
+
+Alloy:             Carbon Fiber
+
+Tire Size:         23"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $402.00
+
+Alloy Premium:                               $615.00
+
+----------------------------------------------------
+
+Sub Total:                                  $1517.50
+
+GST:                                          $75.88
+
+----------------------------------------------------
+
+
+
+Total:                                      $1593.38
+
+Thanks For Shopping At "The Right Speed Bike Shop"

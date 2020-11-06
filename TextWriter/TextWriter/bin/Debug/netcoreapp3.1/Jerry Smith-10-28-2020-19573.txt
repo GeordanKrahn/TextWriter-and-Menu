@@ -1,0 +1,41 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-28-2020
+
+Time Of Purchase:                           23:12:58
+
+----------------------------------------------------
+
+Customer:          Jerry Smith
+
+Brand:             Trek
+
+Alloy:             Steel
+
+Tire Size:         20"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $350.00
+
+Alloy Premium:                                 $0.00
+
+----------------------------------------------------
+
+Sub Total:                                   $850.00
+
+GST:                                          $42.50
+
+----------------------------------------------------
+
+Donation to The Green Earth Fund:              $5.00
+
+
+----------------------------------------------------
+
+Total:                                       $897.50
+
+Thank You Kindly For Your Donation

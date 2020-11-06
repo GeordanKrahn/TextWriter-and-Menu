@@ -1,0 +1,38 @@
+
+--------------The Right Speed Bike Shop-------------
+
+Date Of Purchase:                         10-28-2020
+
+Time Of Purchase:                           21:13:23
+
+----------------------------------------------------
+
+Customer:          Rick Sanchez
+
+Brand:             Trek
+
+Alloy:             Carbon Fiber
+
+Tire Size:         0"
+
+----------------------------------------------------
+
+Base Price:                                  $500.00
+
+Tire Size Premium:                           $402.00
+
+Alloy Premium:                               $615.00
+
+----------------------------------------------------
+
+Sub Total:                                  $1517.50
+
+GST:                                        $1593.38
+
+----------------------------------------------------
+
+
+
+Total:                                      $3110.88
+
+Thanks For Shopping At "The Right Speed Bike Shop"
